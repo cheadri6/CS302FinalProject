@@ -25,4 +25,5 @@ Known Bugs:
 Player blurs when facing left. Teleporter resets the items you have already picked up in the dungeon. Navigation can be tricky without context. We inteneded to have text pop-ups and cutscenes in the game, but our third partner dropped without notifying us.
 
 Other Notes:
-We used Unity's collaborate tool for version/source control. This github repo is just for easy access for Ashley Babjac.
+-We used Unity's collaborate tool for version/source control. This github repo is just for easy access for Ashley Babjac.
+-Time Log is included as a pdf in the repo.
