@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: eae79545dd342864f99942e0e5690e84
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - healthBar: {instanceID: 0}
+  - pfCharacterBattle: {instanceID: 0}
+  - pfEnemyBattle: {instanceID: 0}
+  - battle_over_win: {instanceID: 0}
+  - battle_over_lose: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
